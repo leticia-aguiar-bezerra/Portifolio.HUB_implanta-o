@@ -1,0 +1,43 @@
+Gestão de Usuários e Segurança
+
+A estrutura de permissões foi simulada usando pastas no Google Drive com diferentes níveis de acesso:
+- **Administrador (Letícia)**: acesso total
+- **Colaborador simulado**: acesso de edição restrito
+- **Avaliador simulado**: acesso somente leitura
+
+As boas práticas de segurança foram baseadas em sugestões da IA **Google GEMINI**, incluindo:
+- Uso de autenticação em duas etapas
+- Compartilhamento com e-mails específicos
+- Política de acesso documentada
+
+Google Workspace
+- Armazenamento de arquivos no Google Drive:  
+  🔗 [Acessar pasta do projeto](https://drive.google.com/drive/folders/1d3C9RWGMG_BnW0E4Wh0W_ZoLymS7SalH?usp=drive_link)
+- Simulação de agenda de projeto no Google Calendar
+- Documentação colaborativa no Google Docs
+
+ GitHub
+- Versionamento do projeto com commits nomeados
+- Estrutura de pastas por etapa da implantação
+- Repositório público para fácil visualização e compartilhamento
+
+Uso do Google GEMINI
+
+A IA GEMINI foi utilizada como guia durante todo o projeto. Exemplos de prompts usados:
+- “Como criar uma política de segurança em ambientes colaborativos?”
+- “Quais são as boas práticas de versionamento no GitHub?”
+- “Como integrar Google Calendar em um sistema de portfólio?”
+
+
+Autora
+
+Letícia Almeida Aguiar Bezerra  
+Estudante de Ciência de Dados – UniCEUB  
+📧 almeidaleticia125@gmail.com
+
+ Status
+
+✔️ Planejamento  
+✔️ Estrutura do repositório  
+✔️ Documentação de segurança  
+✔️ Testes simulados  
